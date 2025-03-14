@@ -5,8 +5,10 @@ namespace Mission10_Pattison.Data
 {
     public class Bowler
     {
-        [Key]
+        [Key] // Primary key for the Bowler entity
         public int BowlerID { get; set; }
+
+        // Bowler personal details (nullable)
         public string? BowlerLastName { get; set; }
         public string? BowlerFirstName { get; set; }
         public string? BowlerMiddleInit { get; set; }
@@ -16,9 +18,9 @@ namespace Mission10_Pattison.Data
         public string? BowlerZip { get; set; }
         public string? BowlerPhoneNumber { get; set; }
 
-        public int? TeamID { get; set; } 
+        // Foreign key reference to Team
+        public int? TeamID { get; set; }
         [ForeignKey("TeamID")]
-        public Team? Team { get; set; }
+        public Team? Team { get; set; } // Navigation property to access related Team
     }
-
 }

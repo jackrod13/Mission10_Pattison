@@ -10,6 +10,7 @@ namespace Mission10_Pattison.Controllers
     {
         private readonly BowlerDbContext _context;
 
+        // Constructor to inject the database context
         public BowlerController(BowlerDbContext context)
         {
             _context = context;
@@ -18,13 +19,14 @@ namespace Mission10_Pattison.Controllers
         [HttpGet]
         public IActionResult GetBowlers()
         {
+            // Fetch bowlers who belong to teams with ID 1 or 2, including their team data
             var bowlers = _context.Bowlers
-                .Include(b => b.Team)  
+                .Include(b => b.Team)
                 .Where(b => b.TeamID == 1 || b.TeamID == 2)
                 .Select(b => new
                 {
                     bowlerID = b.BowlerID,
-                    bowlerName = b.BowlerFirstName + " " + (b.BowlerMiddleInit ?? "") + " " + b.BowlerLastName, 
+                    bowlerName = b.BowlerFirstName + " " + (b.BowlerMiddleInit ?? "") + " " + b.BowlerLastName,
                     teamName = b.Team != null ? b.Team.TeamName : "No Team",
                     bowlerAddress = b.BowlerAddress,
                     bowlerCity = b.BowlerCity,
@@ -34,10 +36,7 @@ namespace Mission10_Pattison.Controllers
                 })
                 .ToList();
 
-            return Ok(bowlers);
+            return Ok(bowlers); // Return the filtered list of bowlers as JSON
         }
-
     }
-
 }
-
