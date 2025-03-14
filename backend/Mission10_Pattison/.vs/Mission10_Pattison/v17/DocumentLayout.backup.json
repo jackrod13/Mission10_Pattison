@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\data\\bolwerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\data\\bolwerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|c:\\users\\jackp\\onedrive\\desktop\\is 413\\mission assignments\\mission10_pattison\\backend\\mission10_pattison\\mission10_pattison\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C11B70-704D-4BE6-AE0D-F594535F6B51}|Mission10_Pattison\\Mission10_Pattison.csproj|solutionrelative:mission10_pattison\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 306,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission10_Pattison\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T20:28:12.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Data\\Team.cs",
+              "RelativeToolTip": "Mission10_Pattison\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:32:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Mission10_Pattison\\Controllers\\BowlerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:16:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\Program.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Program.cs",
+              "RelativeToolTip": "Mission10_Pattison\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:06:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\appsettings.json",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\appsettings.json",
+              "RelativeToolTip": "Mission10_Pattison\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T17:04:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BolwerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Data\\BolwerDbContext.cs",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\Data\\BolwerDbContext.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Data\\BolwerDbContext.cs",
+              "RelativeToolTip": "Mission10_Pattison\\Data\\BolwerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:46:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_Pattison\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\IS 413\\Mission Assignments\\Mission10_Pattison\\backend\\Mission10_Pattison\\Mission10_Pattison\\Data\\Bowler.cs",
+              "RelativeToolTip": "Mission10_Pattison\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:38:39.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

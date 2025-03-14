@@ -1,0 +1,6 @@
+@Mission10_Pattison_HostAddress = http://localhost:5232
+
+GET {{Mission10_Pattison_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
